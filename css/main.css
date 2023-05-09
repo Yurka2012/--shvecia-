@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Itim&family=Playfair+Display&family=Ubuntu:wght@300&display=swap");
+.shvecia-what {
+  grid-template-columns: repeat(2, 1fr);
+}
+.text {
+  font-size: x-large;
+  background-color: rgb(165, 177, 188);
+  border-radius: 20px;
+  padding: 7px;
+  font-family: "Ubuntu", sans-serif;
+}
+.footer {
+margin-top: 240px;
+  margin-bottom: 0px;
+}
